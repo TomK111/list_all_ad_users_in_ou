@@ -26,4 +26,3 @@ For this script to execute, you must have the following:
 4. Navigate to the **Attribute Editor** tab
 5. Scroll down until you find the attribute **DistinguishedName**
 6. Click on it and copy that path. Do not add anything before or after the path. 
-
